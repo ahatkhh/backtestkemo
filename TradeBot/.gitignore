@@ -1,0 +1,4 @@
+run
+stop
+output.log
+.tmp_saved_pid
